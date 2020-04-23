@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title></title>
+        <link>https://www.dlemper.de</link>
+        <description></description>
+        <lastBuildDate>Thu, 23 Apr 2020 18:00:15 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://www.dlemper.de/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AirPlay server on TP-Link MR3020]]></title>
+            <link>https://www.dlemper.de/2012/12/29/airplay/</link>
+            <guid>https://www.dlemper.de/2012/12/29/airplay/</guid>
+            <pubDate>Sat, 29 Dec 2012 00:00:00 GMT</pubDate>
+            <description><![CDATA[Or in other words: shairport on MR3020 using OpenWRT!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Raspberry Pi anouncement]]></title>
+            <link>https://www.dlemper.de/2012/02/29/raspberry/</link>
+            <guid>https://www.dlemper.de/2012/02/29/raspberry/</guid>
+            <pubDate>Wed, 29 Feb 2012 00:00:00 GMT</pubDate>
+            <description><![CDATA[Waiting to get one...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[IMHO: Linux distribution for beginners]]></title>
+            <link>https://www.dlemper.de/2013/10/19/linux-dist-for-beginners/</link>
+            <guid>https://www.dlemper.de/2013/10/19/linux-dist-for-beginners/</guid>
+            <pubDate>Sat, 19 Oct 2013 00:00:00 GMT</pubDate>
+            <description><![CDATA[My first attempts with linux are around 2002. My father downloaded a few different distributions for me, so that I could try them out. As I owned an Apple iMac G3 with a PowerPC processor, which was not supported by every dist, I was limited in choice. I tried out to install Debian 3.0 (Woody), Mandrake, Yellow Dog Linux, SuSE Linux 7.3 or 7.2 (one of the last PPC editions).]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Multiboot Linux USB-Stick]]></title>
+            <link>https://www.dlemper.de/2013/01/19/multiboot/</link>
+            <guid>https://www.dlemper.de/2013/01/19/multiboot/</guid>
+            <pubDate>Sat, 19 Jan 2013 00:00:00 GMT</pubDate>
+            <description><![CDATA[Create new partitions using 'n' command and be sure that they have a size of 800 MB to have enough space for everything.
+After creating the partitions you should change the type of each to FAT32 LBA (type c). You can change the type using 't' command, select the partition and then put in 'c' as the type.
+The first partition should also have the boot flag enabled, which can be done using 'a' command.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Deutsche Sprachausgabe]]></title>
+            <link>https://www.dlemper.de/2012/06/24/say/</link>
+            <guid>https://www.dlemper.de/2012/06/24/say/</guid>
+            <pubDate>Sun, 24 Jun 2012 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

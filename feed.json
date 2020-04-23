@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "",
+    "home_page_url": "https://www.dlemper.de",
+    "feed_url": "https://www.dlemper.de/feed.json",
+    "items": [
+        {
+            "id": "https://www.dlemper.de/2012/12/29/airplay/",
+            "url": "https://www.dlemper.de/2012/12/29/airplay/",
+            "title": "AirPlay server on TP-Link MR3020",
+            "summary": "Or in other words: shairport on MR3020 using OpenWRT!",
+            "date_modified": "2012-12-29T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.dlemper.de/2012/02/29/raspberry/",
+            "url": "https://www.dlemper.de/2012/02/29/raspberry/",
+            "title": "Raspberry Pi anouncement",
+            "summary": "Waiting to get one...",
+            "date_modified": "2012-02-29T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.dlemper.de/2013/10/19/linux-dist-for-beginners/",
+            "url": "https://www.dlemper.de/2013/10/19/linux-dist-for-beginners/",
+            "title": "IMHO: Linux distribution for beginners",
+            "summary": "My first attempts with linux are around 2002. My father downloaded a few different distributions for me, so that I could try them out. As I owned an Apple iMac G3 with a PowerPC processor, which was not supported by every dist, I was limited in choice. I tried out to install Debian 3.0 (Woody), Mandrake, Yellow Dog Linux, SuSE Linux 7.3 or 7.2 (one of the last PPC editions).",
+            "date_modified": "2013-10-19T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.dlemper.de/2013/01/19/multiboot/",
+            "url": "https://www.dlemper.de/2013/01/19/multiboot/",
+            "title": "Multiboot Linux USB-Stick",
+            "summary": "Create new partitions using 'n' command and be sure that they have a size of 800 MB to have enough space for everything.\nAfter creating the partitions you should change the type of each to FAT32 LBA (type c). You can change the type using 't' command, select the partition and then put in 'c' as the type.\nThe first partition should also have the boot flag enabled, which can be done using 'a' command.",
+            "date_modified": "2013-01-19T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.dlemper.de/2012/06/24/say/",
+            "url": "https://www.dlemper.de/2012/06/24/say/",
+            "title": "Deutsche Sprachausgabe",
+            "date_modified": "2012-06-24T00:00:00.000Z"
+        }
+    ]
+}
